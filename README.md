@@ -1,3 +1,7 @@
+This project focuses on real-time face detection and recognition using YOLOv5 and SSD MobileNet, trained on a custom dataset. YOLOv5 provides high-speed and accurate detection, while SSD MobileNet ensures efficient, lightweight performance. The custom dataset enhances the model’s ability to recognize unique facial features in diverse conditions. The system is capable of identifying and classifying faces in real time, making it suitable for security, attendance systems, and smart surveillance applications. The implementation includes model training, fine-tuning, and performance evaluation using PyTorch and OpenCV.
+
+This project is a group project
+
 # FDR
 Face Detection and Recognition using Yolov5 and SSD Mobilenet trained on **custom dataset**.
 ![Face Detection 1](https://github.com/user-attachments/assets/2fac339c-3c72-4a28-89a8-5c4c325dc4de)
